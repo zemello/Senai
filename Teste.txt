@@ -1,1 +1,6 @@
 Teste em dupla, sala de aula.
+ Nome : José Luiz
+ 
+ E-mail : joseluiz@gmail.com
+ 
+ Data Nascimento : 02/10/1990
